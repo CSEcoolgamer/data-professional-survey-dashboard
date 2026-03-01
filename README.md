@@ -83,7 +83,7 @@ Common DAX functions used:
 
 ## 📸 Dashboard Preview
 
-![dashboard](BI_DASHBOARD_SURVEY.jpg)
+![dashboard](Data_Professional_Survey_dashboard.png)
 
 
 
